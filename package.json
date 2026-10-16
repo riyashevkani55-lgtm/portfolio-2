@@ -1,0 +1,10 @@
+{
+  "name": "portfolio-1",
+  "private": true,
+  "scripts": {
+    "dev": "vite"
+  },
+  "devDependencies": {
+    "vite": "^7.1.7"
+  }
+}
